@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 92b6e1a1aad4c584b979f9bf0c547a64
+timeCreated: 1512555799
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mega Man X
+  fontNames:
+  - Mega Man X
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
